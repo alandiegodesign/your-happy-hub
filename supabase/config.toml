@@ -1,0 +1,7 @@
+project_id = "wdhxqybwtitjmgfivuat"
+
+[functions.admin-credentials]
+verify_jwt = false
+
+[functions.export-database]
+verify_jwt = false
